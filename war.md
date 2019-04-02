@@ -12,13 +12,8 @@
 
 ## Primary Target List
 Armory
-
 Bridge
-
 Barracks
-
 Hangar
-
 Medbay
-
 Reactor
